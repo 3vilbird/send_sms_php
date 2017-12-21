@@ -59,7 +59,7 @@ if(isset($_POST['SubmitButton']))
 $textMessage=$_POST["userMessage"];
 $mobileNumber=$_POST["userMobile"];
 
-$apiKey = urlencode('XZ3BrO8Li6Q-RoXb7DdHqU9jktFjGIcIzsikwfkzK1');
+$apiKey = urlencode('Your Key Here');
    
    // Message details
    $numbers = array($mobileNumber);
